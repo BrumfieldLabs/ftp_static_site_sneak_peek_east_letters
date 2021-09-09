@@ -9,8 +9,5 @@ main:
     url: "/pages/works/george-east-to-thomas-east"
   - title: Shemi Watson to Mary Farthing Shackleford Watson
     url: "/pages/works/shemi-watson-to-mary-farthing-shackleford-watson"
-- title: Subjects
-  url: "/pages/subject-list"
-  children: []
-- title: About
+- title: Contributors
   url: "/pages/about"
