@@ -1,0 +1,16 @@
+---
+main:
+- title: Works
+  url: "/pages/work-list"
+  children:
+  - title: John C. East Envelope
+    url: "/pages/works/john-c-east-envelope"
+  - title: George East to Thomas East
+    url: "/pages/works/george-east-to-thomas-east"
+  - title: Shemi Watson to Mary Farthing Shackleford Watson
+    url: "/pages/works/shemi-watson-to-mary-farthing-shackleford-watson"
+- title: Subjects
+  url: "/pages/subject-list"
+  children: []
+- title: About
+  url: "/pages/about"
