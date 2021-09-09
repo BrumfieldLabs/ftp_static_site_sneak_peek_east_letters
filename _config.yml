@@ -20,11 +20,15 @@ description: "<p>The East documents were found in an abandoned building near Che
   Chatham on the grounds that Thomas had provided no evidence of his son's death.
   Thomas re-filed, including a letter from George's fellow-POW Shemi Watson mentioning
   the death of George East.  The claim was paid March 1865.</p>"
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
 - jekyll-feed
+- jekyll-include-cache
 defaults:
 - scope:
     path: ''
   values:
-    layout: archive
+    layout: home
+    sidebar:
+      nav: main
+
